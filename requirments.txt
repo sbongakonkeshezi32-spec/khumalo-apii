@@ -1,0 +1,9 @@
+fastapi==0.110.0
+uvicorn==0.28.0
+sqlalchemy==2.0.28
+pydantic==2.6.4
+python-multipart==0.0.9
+mega.py==1.0.8
+python-dotenv==1.0.1
+pyjwt==2.8.0
+passlib==1.7.4
